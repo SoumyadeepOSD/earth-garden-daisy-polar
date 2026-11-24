@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Little Den",
+      "hasCanvas": false,
+      "bodyTextLen": 189,
+      "bodyTextHash": "b19724b62d56c02f388267d6d0578a15ea2669eb9709ccaef58919dac49d0470",
+      "bodyTextPrefix": "AGES 5–10 Little Den 0 Bubble pop Tap the bubbles Twin tiles Fin",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Little Den",
+      "hasCanvas": false,
+      "bodyTextLen": 189,
+      "bodyTextHash": "b19724b62d56c02f388267d6d0578a15ea2669eb9709ccaef58919dac49d0470",
+      "bodyTextPrefix": "AGES 5–10 Little Den 0 Bubble pop Tap the bubbles Twin tiles Fin",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
